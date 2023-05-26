@@ -1,6 +1,6 @@
 # --
 # Kernel/Output/HTML/FilterElementPost/WarnActiveFilters.pm
-# Copyright (C) 2017 - 2022 Perl-Services.de, https://www.perl-services.de/
+# Copyright (C) 2017 - 2023 Perl-Services.de, https://www.perl-services.de/
 # --
 # This software comes with ABSOLUTELY NO WARRANTY. For details, see
 # the enclosed file COPYING for license information (AGPL). If you
